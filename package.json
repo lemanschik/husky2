@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/lemanschik/husky2",
   "repository": "lemanschik/husky2",
-  "main": "husky2.js",
+  "bin": "husky2.js",
   "files": [
     "husky2.js"
   ],
