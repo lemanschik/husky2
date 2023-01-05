@@ -1,6 +1,6 @@
 {
   "name": "husky2",
-  "version": "0.0.3-pre.0",
+  "version": "0.0.4-pre.1",
   "description": "Modern native Git hooks made easy",
   "keywords": [
     "git",
@@ -9,9 +9,10 @@
   ],
   "homepage": "https://github.com/lemanschik/husky2",
   "repository": "lemanschik/husky2",
-  "bin": "husky2.js",
+  "bin": "husky2.bin.js",
   "files": [
-    "husky2.js"
+    "husky2.js",
+    "husky2.bin.js"
   ],
   "scripts": {
     "build": "tsc",
