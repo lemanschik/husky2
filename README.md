@@ -44,16 +44,3 @@ Make a commit:
 git commit -m "Keep calm and commit"
 # `npm test` will run every time you commit
 ```
-
-_For more use cases (project in sub-directory, custom directory, CI support, ...), see documentation._
-
-## Documentation
-
-https://typicode.github.io/husky
-
-**Important** Upgrading from v4 to v7 requires migrating previous config, please see the docs.
-
-## Articles
-
-- [Why husky has dropped conventional JS config](https://blog.typicode.com/husky-git-hooks-javascript-config/)
-- [Why husky doesn't autoinstall anymore](https://blog.typicode.com/husky-git-hooks-autoinstall/)
