@@ -4,6 +4,11 @@
 
 Husky2 improves your commits and more 10x 🐶 _woof!_ _woof!_ _woof!_ _woof!_ _woof!_ _woof!_ _woof!_ _woof!_ _woof!_ _woof!_
 
+# Improvements over husky
+- more simple architecture via .git-hooks.js file that sets the hooks and has all nativeBuildIn Modules already Loaded.
+- much less code and documentation needed it is raw git hooks but translated to nodejs or any other compatible environment.
+- faster install 
+
 # Install
 
 Install with npm for NodeJS Packages:
