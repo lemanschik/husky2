@@ -1,22 +1,17 @@
 {
-  "name": "husky",
-  "version": "8.0.3",
+  "name": "husky2",
+  "version": "0.0.3-pre.0",
   "description": "Modern native Git hooks made easy",
   "keywords": [
     "git",
     "hooks",
     "pre-commit"
   ],
-  "homepage": "https://typicode.github.io/husky",
-  "repository": "typicode/husky",
-  "funding": "https://github.com/sponsors/typicode",
-  "license": "MIT",
-  "author": "Typicode <typicode@gmail.com>",
-  "bin": "lib/bin.js",
-  "main": "lib/index.js",
+  "homepage": "https://github.com/lemanschik/husky2",
+  "repository": "lemanschik/husky2",
+  "main": "husky2.js",
   "files": [
-    "lib",
-    "husky.sh"
+    "husky2.js"
   ],
   "scripts": {
     "build": "tsc",
@@ -35,6 +30,6 @@
     "typescript": "^4.9.4"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=17"
   }
 }
