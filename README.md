@@ -50,3 +50,10 @@ git commit -m "Keep calm and commit"
 
 ## Usage on the web?
 import the .git-hooks.js and call it a day.
+
+
+## Internals
+It creates .git/hooks files with the same content that simply imports the .git-hooks.js file and then calls the handler with the same eventName if any got set 
+
+## TODO:
+Simply add all possible events and call it a day.
