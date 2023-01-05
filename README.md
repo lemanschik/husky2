@@ -1,9 +1,6 @@
 # part of [@direktspeed/quaternion](https://github.com/direktspeed/quaternion)
 [@direktspeed/quaternion](https://github.com/direktspeed/quaternion) is the next Level Component Architecture for the web and this project aligns the husky ecosystem with the Web Ecosystem this is rewritten using Stealify Lang bestpratices. 
 
-## Usage on the web?
-import the .git-hooks.js and call it a day.
-
 # husky2 
 
 > Modern native Git hooks made easy
@@ -50,3 +47,6 @@ Make a commit:
 git commit -m "Keep calm and commit"
 # `npm test` will run every time you commit
 ```
+
+## Usage on the web?
+import the .git-hooks.js and call it a day.
