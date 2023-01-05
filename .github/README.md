@@ -32,6 +32,7 @@ edit ./.git-hooks.js adjust it to your needs
 ```ts
 // .git/hooks/update .git/hooks/pre-push
 git = { update(params) {}, ['pre-push'](params) {} };
+// Add a commit hook to the above existing example.
 git['commit'] = () => child_process.execSync('npm test');
 ```
 
