@@ -1,4 +1,5 @@
-# husky2
+# husky2 part of [@direktspeed/quaternion](https://github.com/direktspeed/quaternion)
+[@direktspeed/quaternion](https://github.com/direktspeed/quaternion) is the next Level Component Architecture for the web and this project aligns the husky ecosystem with the Web Ecosystem this is rewritten using Stealify Lang bestpratices. 
 
 > Modern native Git hooks made easy
 
